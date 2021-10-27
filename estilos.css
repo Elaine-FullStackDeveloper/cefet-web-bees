@@ -15,11 +15,11 @@ p {
 
 a:link,
 a:visited {
-  color: rgb(166, 33, 207);
+  color: rgb(230, 32, 32);
 }
 
 a:hover {
-  color: rgb(241, 56, 23);
+  color: rgb(63, 97, 47);
 }
 
 a:active {
